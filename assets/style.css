@@ -1,0 +1,160 @@
+:root {
+  --light: #f4f4f4;
+  --faded-text: #666666;
+  --dark: #222222;
+  --theme: #FFDB7E;
+  --theme-bold: #ffee00;
+  --theme-light: #ffeab5;
+  --theme-dark: #fcc845;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: inherit;
+}
+
+html {
+  font-family: 'Inter UI', sans-serif;
+  line-height: 1.5;
+  color: var(--dark); 
+}
+
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: 'Inter UI var alt', sans-serif;
+  }
+}
+
+.w {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+#top {
+  background: var(--dark);
+  color: white;
+  padding: 0.5em 0;
+}
+
+#top .w {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#top p {
+  margin-right: auto;
+}
+
+#top a {
+  margin-left: 1em;
+}
+
+
+#hero {
+  background: var(--theme);
+  background-image: linear-gradient(to top left, var(--theme-light), var(--theme), var(--theme-dark));
+  color: var(--dark);
+  padding: 3rem 0;
+}
+
+#hero img {
+  height: 5em;
+  margin-bottom: 3rem;
+}
+
+#hero h1 {
+  font-size: 3em;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-color: var(--dark);
+  text-decoration-style: double;
+  margin-bottom: 2rem;
+}
+
+#hero h2 {
+  font-size: 1.75em;
+  text-transform: uppercase;
+  margin: 1.25rem 0 1rem;
+  font-weight: normal;
+}
+
+#hero p {
+  margin-top: 1em;
+  font-size: 1.25em;
+}
+
+#past p {
+  margin-top: 0.5em;
+}
+
+section {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+section h2 {
+  padding-bottom: 0.5rem;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-color: var(--theme);
+  text-decoration-style: double;
+}
+
+section h2 + h3 {
+  font-weight: normal;
+  font-size: 1.4em;
+}
+
+#footer {
+  background: var(--theme);
+  margin-bottom: 0;
+  color: var(--dark);
+  padding: 2.5em 0;
+}
+
+#footer h2 {
+  text-decoration-color: var(--dark);
+}
+
+#post-list .post {
+  margin-bottom: 2em;
+  display: block;
+  text-decoration: none;
+  line-height: 2;
+}
+
+#post-list .post small {
+  color: grey;
+  font-style: italic;
+}
+
+article {
+  margin-top: 2em;
+  line-height: 2;
+}
+
+article * {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+article a {
+  text-decoration-color: var(--theme);
+  text-decoration-style: double;
+  font-weight: bold;
+}
+
+article img {
+  width: 100%;
+  display: block;
+  margin: 2em auto;
+}
+
+article ul {
+  margin-left: 1.25em;
+}

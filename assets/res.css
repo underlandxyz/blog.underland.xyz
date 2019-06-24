@@ -1,0 +1,88 @@
+.w {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+#top .w {
+  justify-content: center;
+}
+
+#top a {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+#top p {
+  display: none;
+}
+
+#hero {
+  padding: 2.5em 0;
+}
+
+#hero img {
+  height: auto;
+  width: 50%;
+  max-width: 250px;
+  margin-bottom: 2rem;
+}
+
+#hero h1 {
+  font-size: 1.25em;
+}
+
+#hero h2 {
+  font-weight: bold;
+}
+
+#hero h2, 
+#hero p {
+  font-size: 1em;
+}
+
+section {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+section h2 {
+  font-size: 1em;
+}
+
+section h2 + h3 {
+  font-size: 1em;
+}
+
+#projects {
+  display: block;
+}
+
+.project {
+  margin-bottom: 1em;
+}
+
+.logos {
+  grid-gap: 1em;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.logos .lp {
+  display: none;
+}
+
+.services span {
+  font-size: 0.8em;
+  padding: 0.5em;
+}
+
+#clients {
+  margin-top: 2em;
+}
+
+article h2 {
+  font-size: 1.25em;
+}
+
+article img {
+  width: 100%;
+}

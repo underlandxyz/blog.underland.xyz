@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div id="hero">
+  <div class="w">
+    <img src="/assets/logo.svg" alt="Underland">
+    <h1>Through the Looking Glass - The Underland Blog</h1>
+    <p>Here are the musings of the teams behind <a href="https://underland.dev">Underland Dev</a> and <a href="https://underland.events">Underland Events</a>.</p>
+  </div>
+</div>
+
+<section id="post-list" class='w'>
+  {% for post in site.posts %}
+    <a href="{{ post.url }}" class="post">
+      <h2>{{ post.title }}</h2>
+      <p>{{ post.content | truncatewords: 50 | strip_html }}</p>
+      <small>{{ post.author }} on {{ post.date | date: "%a %b %-d %Y" }}</small>
+    </a>
+  {% endfor %}
+</section>
