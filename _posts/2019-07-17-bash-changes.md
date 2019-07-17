@@ -2,7 +2,7 @@
 layout: post
 title:  Changes to BASH Festival of Code 2019 - more flexible than ever
 date:   2019-07-17 00:00:00 +0000
-author: Kevin Lewis
+author: Sunny Patel
 ---
 
 ![BASH Festival of Code](/assets/posts/bash.png)
