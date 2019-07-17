@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Changes to BASH Festival of Code 2019 - more flexible than ever
+title:  Changes to BASH Festival of Code 2019 - here's what's new
 date:   2019-07-17 00:00:00 +0000
 author: Sunny Patel
 ---
 
 ![BASH Festival of Code](/assets/posts/bash.png)
 
-[BASH Festival of Code 2019](https;//bashfestival.io) is now just a few weeks away, and with that come some announcements of how we're making the event more flexible to attendees based on feedback we've been given.
+[BASH Festival of Code 2019](https://bashfestival.io) is now just a few weeks away, and with that come some announcements of how we're making the event more flexible to attendees based on feedback we've been given.
 
 As a reminder, BASH Festival of Code is a week-long coding festival for 13-17 year olds. In our original format, attendees would spend the first 5 days of the week in one of our regional hubs around the UK, and then travel to Birmingham for a finale where they will showcase projects and enjoy a multi-stream conference and lots of social activities. 
 
