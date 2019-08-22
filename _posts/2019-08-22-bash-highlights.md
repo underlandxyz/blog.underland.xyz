@@ -41,7 +41,7 @@ Thank you to all the organisations and individuals who supported this initiative
 
 ## Commitment to Diversity & Inclusion
 
-From the very start of the event we laid out our [Success Framework](#) - a set of goals that we would be able to measure our event against once completed. We'll be going through this more in detail in our retrospective next week, but for now we wanted to mention a couple of key parts. 
+From the very start of the event we laid out our [Success Framework](https://bashfestival.io/about/success) - a set of goals that we would be able to measure our event against once completed. We'll be going through this more in detail in our retrospective next week, but for now we wanted to mention a couple of key parts. 
 
 As mentioned above, through our sponsorship we were able to offer travel bursaries to those who needed them. We ensured (as with all of our events) that were was a minimal barrier to qualify for one. From the £1,000 we had available, we gave out £484.18. The remaining amount will go towards our inclusion scholarships for our [January conference](https://yougotthis.io).
 
@@ -73,11 +73,11 @@ Attendees really valued the open and casual atmosphere where they are free to se
 
 This event was hard - a lot harder than expected. As a company we have not run a youth tech event before, and while it was broadly succcessful it comes at significant effort, time and money investment. We run events all the time, but the absolute requirement to build safeguarding procedures that are both robust and easy to execute took a lot. 
 
-There is also a question of attendance vs impact. We had originally set out to run an event for 250-350 young people, and we ended up with sub-100. We are firm believers that we'd rather have a small number of engaged minds who get more value than the numbers without the impact.
+There is also a question of attendance vs impact. We had originally set out to run an event for 250-350 young people, and we ended up with sub-100. We are firm believers that we'd rather have a small number of engaged minds who get more value than the numbers without the impact, however this is significantly less participants than we expected or wanted. While this doesn't matter for us the numbers was one of the bases for our converastions with sponsors, which added another concern around this event. Fortunately, it seems many of our sponsors agree with our assessment of impact being greater than attendee numbers.
 
-Our outlook is that no process is without flaw and anything we do once we can do again better in the future. We've set the precedent for how we make youth tech events meaningful and achievable. The next goal for us must be how to refine this. 
+Our outlook is that no process is without flaw and anything we do once we can do again better in the future. We've set the precedent for how we make youth tech events meaningful and achievable. The next goal for us must be how to refine this to continue running impactful youth tech events.
 
-We aren't going to run this event in this format again. We'll outline more in our retrospective some of the challenges we faced, but for running it again we will need some time to develop a fresh format that devivers more impact and is more sustainable for our team.
+We aren't going to run this event in this format again. We'll outline more in our retrospective some of the challenges we faced, but for running it again we will need some time to develop a fresh format that delivers more impact and is more sustainable for our team.
 
 Ultimately we glad that we did this, and that we had a great group of people and organisations who bought into the vision. We had a really big impact on several young people - and that's what it's all about. 
 
