@@ -77,7 +77,7 @@ There is also a question of attendance vs impact. We had originally set out to r
 
 Our outlook is that no process is without flaw and anything we do once we can do again better in the future. We've set the precedent for how we make youth tech events meaningful and achievable. The next goal for us must be how to refine this to continue running impactful youth tech events.
 
-We aren't going to run this event in this format again. We'll outline more in our retrospective some of the challenges we faced, but for running it again we will need some time to develop a fresh format that delivers more impact and is more sustainable for our team.
+We aren't going to run this event in this format again. We'll outline more in our retrospective some of the challenges we faced, but for running it again we will need some time to develop a fresh format that delivers more impact and is more sustainable for our team. This means we don't plan on running a large youth-tech event in 2020. 
 
 Ultimately we glad that we did this, and that we had a great group of people and organisations who bought into the vision. We had a really big impact on several young people - and that's what it's all about. 
 
