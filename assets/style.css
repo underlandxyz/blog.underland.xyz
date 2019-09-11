@@ -152,7 +152,8 @@ article img {
   margin: 2em auto;
 }
 
-article ul {
+article ul,
+article ol {
   margin-left: 1.25em;
 }
 
@@ -162,10 +163,25 @@ article blockquote {
   font-style: italic;
   color: var(--faded-text);
   margin-bottom: 2em;
+  margin-top: 2em;
 }
 
 article .twitter-tweet {
   margin-left: auto;
   margin-right: auto;
   margin-top: 2em !important;
+}
+
+article table {
+  width: 100%;
+}
+
+article table,
+article tr,
+article td,
+article th {
+  border: 1px solid var(--theme);
+  padding: 0.5em;
+  border-collapse: collapse;
+  text-align: left;
 }
